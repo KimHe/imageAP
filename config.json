@@ -1,0 +1,14 @@
+{
+	"fname":"IMG_8209.JPG",
+
+	"crop_x_min":940,
+	"crop_x_max":1200,
+	"crop_y_min":1200,
+	"crop_y_max":1450,
+
+	"rgb_min":20,
+	"rgb_max":100,
+
+    "enableDebug": false
+
+}
